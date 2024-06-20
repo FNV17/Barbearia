@@ -32,7 +32,11 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: #da7b23;
+	padding: 20px;
+}
+.topo {
+	background: #da7b23;
 	padding: 20px;
 }
 
