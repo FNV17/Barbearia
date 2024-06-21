@@ -124,7 +124,7 @@ footer {
 	padding: 10px 20px;
 	font-size: 24px;
 	display: inline-block;
-	background: orange;
+	background: greenyellow;
 	color: white;
 	border: none;
 	border-radius: 5px;
@@ -147,7 +147,7 @@ table {
 
 th  {
 	background: #777777;
-	color: #FFFFFF;
+	color: #fc9700;
 }
 
 
